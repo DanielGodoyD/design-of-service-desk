@@ -1,1 +1,4 @@
 # design-of-service-desk
+
+For this project an iterative development methodology will be carried out. This is because this project can be separated into 2 sub-projects that can be developed independently.
+On the one hand, a subproject in which the system is designed that will allow managing the development of the contests, the implementation of the projects, as well as the receipt of donations. On the other hand, a subproject that will allow the optimization of the web page, which will serve for the promotion of the organization and will also allow to attach the intranet for the use of collaborators. In this way, management and workers can be trained with each module that is designed to know the functionalities of the system, which allows the development of the project in an agile way. In the end, these modules will be unified at the end of both subprojects to shape the Tender Management System.
